@@ -42,7 +42,12 @@ Pedido de compras, é possível o usuário através das peças já registradas, 
 # Tela Baixa Estoque
 ![alt](img_java/tela_baixa_estoque.PNG)
 
-É possível dar baixa nos itens do estoaque, existe uma tabela de itens que já tiveram baixa.
+É possível dar baixa nos itens do estoque, existe uma tabela de itens que já tiveram baixa.
+
+# Tela Baixa Estoque Visualizar Baixas
+![alt](img_java/tela_baixa_estoque_visualizar.PNG)
+
+É possível visualizar, as baixas do estoque, alterar e deletar para caso tenha algum problema.
 
 # Tela Consulta Estoque
 ![alt](img_java/tela_consulta_estoque.PNG)
